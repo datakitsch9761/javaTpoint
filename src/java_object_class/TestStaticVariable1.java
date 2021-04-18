@@ -10,7 +10,7 @@ public class TestStaticVariable1{
         s2.display();
     }
 }
-
+//
 class Student11 {
     //instance variable
     int rollno;
